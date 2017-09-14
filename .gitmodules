@@ -1,0 +1,15 @@
+[submodule "evil"]
+	path = evil
+	url = https://github.com/emacs-evil/evil.git
+[submodule "stylish"]
+	path = stylish
+	url = https://github.com/jrockway/stylish-elisp.git
+[submodule "undo-tree"]
+	path = undo-tree
+	url = https://github.com/emacsmirror/undo-tree.git
+[submodule "color-theme-modern"]
+	path = color-theme-modern
+	url = https://github.com/emacs-jp/replace-colorthemes.git
+[submodule "yaml-mode"]
+	path = yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
